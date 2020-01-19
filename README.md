@@ -1,4 +1,7 @@
-Travis CI status: [![Build Status](https://travis-ci.com/fralomb/docker_training.svg?branch=master)](https://travis-ci.com/fralomb/docker_training)
+# Travis CI: 
+[![Build Status](https://travis-ci.com/fralomb/docker_training.svg?branch=master)](https://travis-ci.com/fralomb/docker_training)
+OR
+https://travis-ci.com/fralomb/docker_training.svg?branch=master
 
 # Ui
 
