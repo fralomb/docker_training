@@ -3,4 +3,4 @@ services:
 before_install:
   - docker-compose build
 script:
-  - docker-compose up karma:ci
+  - docker-compose up karma_ci
