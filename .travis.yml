@@ -1,7 +1,6 @@
-sudo: required
 services:
   - docker
 before_install:
   - docker-compose build
 script:
-  - docker-compose up unittest
+  - docker-compose up karma:ci
