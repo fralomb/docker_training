@@ -1,3 +1,6 @@
+# Travis CI: 
+[![Build Status](https://travis-ci.com/fralomb/docker_training.svg?branch=master)](https://travis-ci.com/fralomb/docker_training)
+
 # Ui
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
