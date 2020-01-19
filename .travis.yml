@@ -1,6 +1,7 @@
 services:
   - docker
 before_install:
+  - gem install bundler --pre
   - docker-compose build
 script:
   - docker-compose up karma_ci

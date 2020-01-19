@@ -6,4 +6,5 @@ COPY ./ ./
 RUN npm run build:prod
 
 FROM nginx
-COPY --from=builder /app/build /usr/share/nginx
+EXPOSE 80
+COPY --from=builder /app/build /usr/share/nginx/html
